@@ -1,0 +1,8 @@
+datasets
+transformers
+torch
+sentence-transformers
+faiss-cpu
+trulens-eval
+openai
+python-dotenv

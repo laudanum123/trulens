@@ -1,2 +1,8 @@
 default.sqlite
 .env
+trulens_eval.db
+hf_rag_project/requirements.txt
+hf_rag_project/data/documents.pkl
+.gitignore
+hf_rag_project/data/faiss_index.idx
+*.pyc
